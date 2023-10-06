@@ -28,5 +28,5 @@ Rules that allow or deny incoming traffic based on source, destination port rang
 Firewall rules applied at network interface
 
 # Load balancer comparison
-Load balancer -  web application firewall.
-Network load balancer - low-latency network integrated load balancer 
+Load balancer -  web application firewall. (level 7)
+Network load balancer - low-latency network integrated load balancer  (level4)
